@@ -1,2 +1,0 @@
-# resolusi
-my first repository
